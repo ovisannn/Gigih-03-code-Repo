@@ -1,0 +1,1 @@
+![alt text](https://raw.githubusercontent.com/ovisannn/Gigih-03-code-Repo/main/7723-spotifyRipoff/asset/images.jpeg)
