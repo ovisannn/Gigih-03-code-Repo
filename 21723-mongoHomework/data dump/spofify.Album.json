@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "64b8ca920ecf6dc67e934e5f"
+  },
+  "title": "Hybird Theory",
+  "artist": "Linkin Park",
+  "created_at": {
+    "$date": "2000-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8cd040ecf6dc67e934e79"
+  },
+  "title": "Minutes to Midnight",
+  "artist": "Linkin Park",
+  "created_at": {
+    "$date": "2007-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8ce290ecf6dc67e934e82"
+  },
+  "title": "Adderal",
+  "artist": "Slipknot",
+  "created_at": {
+    "$date": "2003-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8ce380ecf6dc67e934e83"
+  },
+  "title": "The Gray Chapter",
+  "artist": "Slipknot",
+  "created_at": {
+    "$date": "2014-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8cfdc0ecf6dc67e934e8b"
+  },
+  "title": "Images and Words",
+  "artist": "Dream Theater",
+  "created_at": {
+    "$date": "1992-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8d0e00ecf6dc67e934e91"
+  },
+  "title": "Octavarium",
+  "artist": "Dream Theater",
+  "created_at": {
+    "$date": "2005-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8d1fc0ecf6dc67e934e99"
+  },
+  "title": "Hathfull of Hollow",
+  "artist": "The Smiths",
+  "created_at": {
+    "$date": "1984-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8d3970ecf6dc67e934ea7"
+  },
+  "title": "The Queen Is Dead",
+  "artist": "The Smiths",
+  "created_at": {
+    "$date": "1984-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8d6520ecf6dc67e934ebd"
+  },
+  "title": "Enema of The State",
+  "artist": "Blink-182",
+  "created_at": {
+    "$date": "1999-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8d6f00ecf6dc67e934ec3"
+  },
+  "title": "NINE",
+  "artist": "Blink-182",
+  "created_at": {
+    "$date": "2019-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9b508a0d3d4af12e23d1f"
+  },
+  "title": "Stand Up And Scream",
+  "artist": "Asking Alexandria",
+  "created_at": {
+    "$date": "2009-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9b6b1a0d3d4af12e23d26"
+  },
+  "title": "The Black",
+  "artist": "Asking Alexandria",
+  "created_at": {
+    "$date": "2016-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9b758a0d3d4af12e23d2e"
+  },
+  "title": "That's The Spirit",
+  "artist": "Bring Me The Horizon",
+  "created_at": {
+    "$date": "2015-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9b7d8a0d3d4af12e23d34"
+  },
+  "title": "Sempiternal",
+  "artist": "Bring Me The Horizon",
+  "created_at": {
+    "$date": "2013-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9b956a0d3d4af12e23d3c"
+  },
+  "title": "Voulez-Vous",
+  "artist": "ABBA",
+  "created_at": {
+    "$date": "1979-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9b9c3a0d3d4af12e23d42"
+  },
+  "title": "Arrival",
+  "artist": "ABBA",
+  "created_at": {
+    "$date": "1976-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9ba96a0d3d4af12e23d4a"
+  },
+  "title": "Inhuman Rampage",
+  "artist": "DragonForce",
+  "created_at": {
+    "$date": "2006-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9bb14a0d3d4af12e23d50"
+  },
+  "title": "Ultra Beatdown",
+  "artist": "DragonForce",
+  "created_at": {
+    "$date": "2008-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9bc15a0d3d4af12e23d58"
+  },
+  "title": "Appetite For Destruction",
+  "artist": "Gun N' Roses",
+  "created_at": {
+    "$date": "1987-06-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64b9bc9ca0d3d4af12e23d5e"
+  },
+  "title": "Use Your Illusion I",
+  "artist": "Gun N' Roses",
+  "created_at": {
+    "$date": "1991-06-09T17:00:00.000Z"
+  }
+}]

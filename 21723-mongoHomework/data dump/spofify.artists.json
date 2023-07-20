@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64b8c7540ecf6dc67e934e42"
+  },
+  "name": "Linkin Park",
+  "formed": "1996",
+  "genre": "rock alternative"
+},
+{
+  "_id": {
+    "$oid": "64b8ccbf0ecf6dc67e934e77"
+  },
+  "name": "Slipknot",
+  "formed": "1995",
+  "genre": "groove metal"
+},
+{
+  "_id": {
+    "$oid": "64b8cf8f0ecf6dc67e934e89"
+  },
+  "name": "Dream Theater",
+  "formed": "1985",
+  "genre": "progressive metal"
+},
+{
+  "_id": {
+    "$oid": "64b8d1d50ecf6dc67e934e97"
+  },
+  "name": "The Smiths",
+  "formed": "1982",
+  "genre": "alternative rock"
+},
+{
+  "_id": {
+    "$oid": "64b8d62a0ecf6dc67e934ebb"
+  },
+  "name": "Blink-182",
+  "formed": "1992",
+  "genre": "pop punk"
+},
+{
+  "_id": {
+    "$oid": "64b9b4f2a0d3d4af12e23d1d"
+  },
+  "name": "Asking Alexandria",
+  "formed": "2006",
+  "genre": "metal"
+},
+{
+  "_id": {
+    "$oid": "64b9b737a0d3d4af12e23d2c"
+  },
+  "name": "Bring Me The Horizon",
+  "formed": "2004",
+  "genre": "metalcore"
+},
+{
+  "_id": {
+    "$oid": "64b9b924a0d3d4af12e23d3a"
+  },
+  "name": "ABBA",
+  "formed": "1972",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b9ba62a0d3d4af12e23d48"
+  },
+  "name": "DragonForce",
+  "formed": "1999",
+  "genre": "progressive metal"
+},
+{
+  "_id": {
+    "$oid": "64b9bbe9a0d3d4af12e23d56"
+  },
+  "name": "Gun N' Roses",
+  "formed": "1985",
+  "genre": "rock"
+}]
